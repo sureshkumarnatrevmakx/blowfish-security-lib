@@ -1,4 +1,4 @@
-# npm-woocommerce-api
+# blowfish-security-lib
 Blowfish encryption in javascript.
 
 ## Installation

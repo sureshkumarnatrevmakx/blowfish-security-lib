@@ -1,0 +1,68 @@
+{
+  "name": "blowfish-security-lib",
+  "version": "1.0.0",
+  "description": "Blowfish encryption in javascript.",
+  "main": "blowfish-security-lib.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sureshkumarnatrevmakx/blowfish-security-lib.git"
+  },
+  "keywords": [
+    "blowfish",
+	"blowfish-security-lib",
+	"blowfish security lib",	
+	"blowfish-security",
+	"blowfish security",	
+	"blowfishsecurity",
+	"blowfishsecuritylib",
+	"security",
+	"lib",
+	"encryption",
+	"encryption-method",
+	"encryption method",	
+	"encryptionmethod",
+	"symmetric-encryption",
+	"symmetric encryption",	
+	"symmetric-key-cryptography",
+	"symmetric key cryptography",	
+	"symmetricencryption",
+	"symmetrickeycryptography",
+	"symmetric encryption",
+	"symmetric key cryptography"	
+  ],
+  "author": {
+    "name": "sureshkumarnagarajanmca",
+    "email": "sureshkumarnagarajanmca@gmail.com",
+    "url": "https://www.facebook.com/munaivendri.naa.sureshkumar"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sureshkumarnatrevmakx/blowfish-security-lib/issues"
+  },
+  "homepage": "https://github.com/sureshkumarnatrevmakx/blowfish-security-lib",
+  "devDependencies": {},
+  "dependencies": {},
+  "_id": "blowfish-security-lib@1.0.0",
+  "_shasum": "",
+  "_from": "node_modules\\blowfish-security-lib",
+  "_npmUser": {
+    "name": "sureshkumarnagarajanmca",
+    "email": "sureshkumarnagarajanmca@gmail.com"
+  },
+  "gitHead": "",
+  "dist": {
+    "shasum": "",
+    "tarball": "http://registry.npmjs.org/blowfish-security-lib/-/blowfish-security-lib-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sureshkumarnagarajanmca",
+      "email": "sureshkumarnagarajanmca@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "file:node_modules\\blowfish-security-lib"
+}
